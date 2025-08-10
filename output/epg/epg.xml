@@ -1,216 +1,234 @@
 <?xml version="1.0" ?>
-<tv date="20250810100409 +0800">
+<tv date="20250810220418 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
-	<programme channel="CCTV-1" start="20250810005900 +0800" stop="20250810013100 +0800">
-		<title lang="zh">2024农耕探文明-2</title>
+	<programme channel="CCTV-1" start="20250811004500 +0800" stop="20250811011700 +0800">
+		<title lang="zh">2024农耕探文明-3</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810013100 +0800" stop="20250810020300 +0800">
+	<programme channel="CCTV-1" start="20250811011700 +0800" stop="20250811014900 +0800">
 		<title lang="zh">晚间新闻</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810020300 +0800" stop="20250810023300 +0800">
+	<programme channel="CCTV-1" start="20250811014900 +0800" stop="20250811021900 +0800">
+		<title lang="zh">寻宝-文脉春秋-16</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250811021900 +0800" stop="20250811022900 +0800">
+		<title lang="zh">非遗里的中国（第二季）-精编5</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250811022900 +0800" stop="20250811023400 +0800">
+		<title lang="zh">精彩一刻-2024-151国宝四宋瓷</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250811023400 +0800" stop="20250811023900 +0800">
+		<title lang="zh">精彩一刻-2024-153国宝四昌黎先生集</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250811023900 +0800" stop="20250811024400 +0800">
+		<title lang="zh">字从遇见你（精品展播）-龟</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250811024400 +0800" stop="20250811025200 +0800">
+		<title lang="zh">字从遇见你（精品展播）-美</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250811025200 +0800" stop="20250811042000 +0800">
+		<title lang="zh">城市风华录-8</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250811042000 +0800" stop="20250811045300 +0800">
 		<title lang="zh">寻宝-文脉春秋-18</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810023300 +0800" stop="20250810024300 +0800">
-		<title lang="zh">非遗里的中国（第二季）-精编2</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250810024300 +0800" stop="20250810025100 +0800">
-		<title lang="zh">三餐四季（第二季）-宣传片</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250810025100 +0800" stop="20250810042000 +0800">
-		<title lang="zh">城市风华录-7</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250810042000 +0800" stop="20250810045300 +0800">
-		<title lang="zh">2024农耕探文明-10</title>
-	</programme>
-	<programme channel="CCTV-1" start="20250810045300 +0800" stop="20250810052700 +0800">
+	<programme channel="CCTV-1" start="20250811045300 +0800" stop="20250811052700 +0800">
 		<title lang="zh">新闻联播</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810052700 +0800" stop="20250810060000 +0800">
-		<title lang="zh">寻古中国（第二季）-东方人类百万年1</title>
+	<programme channel="CCTV-1" start="20250811052700 +0800" stop="20250811060000 +0800">
+		<title lang="zh">寻古中国（第二季）-东方人类百万年2</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810060000 +0800" stop="20250810083700 +0800">
+	<programme channel="CCTV-1" start="20250811060000 +0800" stop="20250811083700 +0800">
 		<title lang="zh">朝闻天下</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810083700 +0800" stop="20250810092500 +0800">
-		<title lang="zh">蛮好的人生第32集</title>
+	<programme channel="CCTV-1" start="20250811083700 +0800" stop="20250811092200 +0800">
+		<title lang="zh">生活早参考-特别节目（生活圈）2025-163</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810092500 +0800" stop="20250810101800 +0800">
-		<title lang="zh">蛮好的人生第33集</title>
+	<programme channel="CCTV-1" start="20250811092200 +0800" stop="20250811101200 +0800">
+		<title lang="zh">蛮好的人生第36集</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810101800 +0800" stop="20250810110600 +0800">
-		<title lang="zh">蛮好的人生第34集</title>
+	<programme channel="CCTV-1" start="20250811101200 +0800" stop="20250811110500 +0800">
+		<title lang="zh">利剑·玫瑰第1集</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810110600 +0800" stop="20250810115400 +0800">
-		<title lang="zh">蛮好的人生第35集</title>
+	<programme channel="CCTV-1" start="20250811110500 +0800" stop="20250811115300 +0800">
+		<title lang="zh">利剑·玫瑰第2集</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810115400 +0800" stop="20250810120000 +0800">
-		<title lang="zh">2024秘境之眼-311</title>
+	<programme channel="CCTV-1" start="20250811115300 +0800" stop="20250811120000 +0800">
+		<title lang="zh">2024秘境之眼-312</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810120000 +0800" stop="20250810123500 +0800">
+	<programme channel="CCTV-1" start="20250811120000 +0800" stop="20250811123500 +0800">
 		<title lang="zh">新闻30分</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810123500 +0800" stop="20250810131200 +0800">
-		<title lang="zh">2024农耕探文明-9</title>
+	<programme channel="CCTV-1" start="20250811123500 +0800" stop="20250811131000 +0800">
+		<title lang="zh">今日说法-2025-154</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810131200 +0800" stop="20250810140300 +0800">
-		<title lang="zh">北上第8集</title>
+	<programme channel="CCTV-1" start="20250811131000 +0800" stop="20250811135700 +0800">
+		<title lang="zh">北上第13集</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810140300 +0800" stop="20250810145100 +0800">
-		<title lang="zh">北上第9集</title>
+	<programme channel="CCTV-1" start="20250811135700 +0800" stop="20250811145000 +0800">
+		<title lang="zh">北上第14集</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810145100 +0800" stop="20250810153800 +0800">
-		<title lang="zh">北上第10集</title>
+	<programme channel="CCTV-1" start="20250811145000 +0800" stop="20250811153700 +0800">
+		<title lang="zh">北上第15集</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810153800 +0800" stop="20250810162700 +0800">
-		<title lang="zh">北上第11集</title>
+	<programme channel="CCTV-1" start="20250811153700 +0800" stop="20250811162400 +0800">
+		<title lang="zh">北上第16集</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810162700 +0800" stop="20250810171600 +0800">
-		<title lang="zh">北上第12集</title>
+	<programme channel="CCTV-1" start="20250811162400 +0800" stop="20250811171400 +0800">
+		<title lang="zh">北上第17集</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810171600 +0800" stop="20250810171800 +0800">
-		<title lang="zh">秘境之眼-2025-222</title>
+	<programme channel="CCTV-1" start="20250811171400 +0800" stop="20250811184900 +0800">
+		<title lang="zh">宗师列传▪唐宋八大家-苏洵</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810171800 +0800" stop="20250810190000 +0800">
-		<title lang="zh">中央广播电视总台主持人大赛新闻主播季-4</title>
+	<programme channel="CCTV-1" start="20250811184900 +0800" stop="20250811190000 +0800">
+		<title lang="zh">秘境之眼-2025-223</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810190000 +0800" stop="20250810193800 +0800">
+	<programme channel="CCTV-1" start="20250811190000 +0800" stop="20250811193900 +0800">
 		<title lang="zh">新闻联播</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810193800 +0800" stop="20250810200200 +0800">
+	<programme channel="CCTV-1" start="20250811193900 +0800" stop="20250811200100 +0800">
 		<title lang="zh">焦点访谈</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810200200 +0800" stop="20250810210600 +0800">
-		<title lang="zh">智绘光谷·CMG世界机器人技能大赛-闭幕式</title>
+	<programme channel="CCTV-1" start="20250811200100 +0800" stop="20250811200600 +0800">
+		<title lang="zh">前情提要-浴血荣光-第36集</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810210600 +0800" stop="20250810210900 +0800">
-		<title lang="zh">前情提要-浴血荣光-第35集</title>
+	<programme channel="CCTV-1" start="20250811200600 +0800" stop="20250811205500 +0800">
+		<title lang="zh">浴血荣光36/40</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810210900 +0800" stop="20250810220000 +0800">
-		<title lang="zh">浴血荣光第35集</title>
+	<programme channel="CCTV-1" start="20250811205500 +0800" stop="20250811205900 +0800">
+		<title lang="zh">前情提要-浴血荣光-第37集</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810220000 +0800" stop="20250810223400 +0800">
+	<programme channel="CCTV-1" start="20250811205900 +0800" stop="20250811215400 +0800">
+		<title lang="zh">浴血荣光37/40</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250811215400 +0800" stop="20250811220000 +0800">
+		<title lang="zh">字从遇见你（精品展播）-首</title>
+	</programme>
+	<programme channel="CCTV-1" start="20250811220000 +0800" stop="20250811223400 +0800">
 		<title lang="zh">晚间新闻</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810223400 +0800" stop="20250810230800 +0800">
-		<title lang="zh">寻古中国（第二季）-古国时代铸鼎原</title>
+	<programme channel="CCTV-1" start="20250811223400 +0800" stop="20250811230900 +0800">
+		<title lang="zh">寻古中国（第二季）-玉城王都石峁城</title>
 	</programme>
-	<programme channel="CCTV-1" start="20250810230800 +0800" stop="20250810235900 +0800">
-		<title lang="zh">城市风华录-8</title>
+	<programme channel="CCTV-1" start="20250811230900 +0800" stop="20250811235900 +0800">
+		<title lang="zh">城市风华录-9</title>
 	</programme>
 	<channel id="CCTV-5">
 		<display-name lang="zh">CCTV-5</display-name>
 	</channel>
-	<programme channel="CCTV-5" start="20250810010500 +0800" stop="20250810023600 +0800">
-		<title lang="zh">实况录像-2025年世界田联钻石联赛  多哈站</title>
+	<programme channel="CCTV-5" start="20250811001000 +0800" stop="20250811011000 +0800">
+		<title lang="zh">2025年赛艇世界杯-瓦雷泽站</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250810023600 +0800" stop="20250810040000 +0800">
-		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 4</title>
+	<programme channel="CCTV-5" start="20250811011000 +0800" stop="20250811023800 +0800">
+		<title lang="zh">实况录像-2025年长三角国际田径钻石赛(上海/绍兴柯桥)</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250810040000 +0800" stop="20250810053000 +0800">
-		<title lang="zh">国际足球赛场-24-25赛季英超联赛第26轮 埃弗顿—曼彻斯特联（4K）</title>
+	<programme channel="CCTV-5" start="20250811023800 +0800" stop="20250811040000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 5</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250810053000 +0800" stop="20250810060000 +0800">
-		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 2</title>
+	<programme channel="CCTV-5" start="20250811040000 +0800" stop="20250811053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第22轮 马赛—圣艾蒂安（4K）</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250810060000 +0800" stop="20250810063000 +0800">
-		<title lang="zh">实况录像-2025年三人篮球世界杯 2</title>
+	<programme channel="CCTV-5" start="20250811053000 +0800" stop="20250811060000 +0800">
+		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 3</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250810063000 +0800" stop="20250810070000 +0800">
+	<programme channel="CCTV-5" start="20250811060000 +0800" stop="20250811063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 3</title>
+	</programme>
+	<programme channel="CCTV-5" start="20250811063000 +0800" stop="20250811070000 +0800">
 		<title lang="zh">健身动起来</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250810070000 +0800" stop="20250810090300 +0800">
+	<programme channel="CCTV-5" start="20250811070000 +0800" stop="20250811090300 +0800">
 		<title lang="zh">体坛晨报</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250810090300 +0800" stop="20250810093000 +0800">
-		<title lang="zh">实况录像-2025年世界田联钻石联赛 尤金站25分钟版</title>
+	<programme channel="CCTV-5" start="20250811090300 +0800" stop="20250811093000 +0800">
+		<title lang="zh">实况录像-2025年世界田联钻石联赛 伦敦站25分钟版</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250810093000 +0800" stop="20250810120000 +0800">
-		<title lang="zh">2025年WTT横滨冠军赛-1/4决赛1</title>
+	<programme channel="CCTV-5" start="20250811093000 +0800" stop="20250811125000 +0800">
+		<title lang="zh">2025年WTT横滨冠军赛 半决赛</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250810120000 +0800" stop="20250810130500 +0800">
+	<programme channel="CCTV-5" start="20250811125000 +0800" stop="20250811135500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250810130500 +0800" stop="20250810132500 +0800">
+	<programme channel="CCTV-5" start="20250811135500 +0800" stop="20250811141000 +0800">
 		<title lang="zh">艺术里的奥林匹克(4K)</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250810132500 +0800" stop="20250810143000 +0800">
-		<title lang="zh">2025年世界职业拳王争霸赛</title>
+	<programme channel="CCTV-5" start="20250811141000 +0800" stop="20250811153000 +0800">
+		<title lang="zh">实况录像-2025年男篮亚洲杯 小组赛 中国队—约旦队</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250810143000 +0800" stop="20250810150000 +0800">
-		<title lang="zh">实况录像-2025年成都世界运动会 射准射箭复合弓女子、男子决赛（录播）</title>
+	<programme channel="CCTV-5" start="20250811153000 +0800" stop="20250811163000 +0800">
+		<title lang="zh">运动一起赢</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250810150000 +0800" stop="20250810160000 +0800">
-		<title lang="zh">2025年成都世界运动会-尾波滑水女子自由式决赛</title>
+	<programme channel="CCTV-5" start="20250811163000 +0800" stop="20250811183000 +0800">
+		<title lang="zh">2025年WTT横滨冠军赛 女单、男单决赛</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250810160000 +0800" stop="20250810180000 +0800">
-		<title lang="zh">2025年男篮亚洲杯-小组赛（卡塔尔队-澳大利亚队）</title>
-	</programme>
-	<programme channel="CCTV-5" start="20250810180000 +0800" stop="20250810190000 +0800">
+	<programme channel="CCTV-5" start="20250811183000 +0800" stop="20250811190000 +0800">
 		<title lang="zh">体育新闻</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250810190000 +0800" stop="20250810193000 +0800">
-		<title lang="zh">体坛零距离(4K)</title>
+	<programme channel="CCTV-5" start="20250811190000 +0800" stop="20250811210000 +0800">
+		<title lang="zh">2025年男篮亚洲杯-1/4决赛资格赛1</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250810193000 +0800" stop="20250810213000 +0800">
-		<title lang="zh">2026亚足联女足U20亚洲杯-预选赛（中国队—黎巴嫩队）</title>
+	<programme channel="CCTV-5" start="20250811210000 +0800" stop="20250811220000 +0800">
+		<title lang="zh">天下足球</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250810213000 +0800" stop="20250810215500 +0800">
-		<title lang="zh">实况录像-2025年WTT横滨冠军赛 单打1/4决赛（录播）</title>
+	<programme channel="CCTV-5" start="20250811220000 +0800" stop="20250811230000 +0800">
+		<title lang="zh">体育世界</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250810215500 +0800" stop="20250810235900 +0800">
-		<title lang="zh">2025年英格兰社区盾-（水晶宫—利物浦）</title>
+	<programme channel="CCTV-5" start="20250811230000 +0800" stop="20250811235900 +0800">
+		<title lang="zh">实况录像-2025年成都世界运动会 （录播）1</title>
 	</programme>
 	<channel id="CCTV-5+">
 		<display-name lang="zh">CCTV-5+</display-name>
 	</channel>
-	<programme channel="CCTV-5+" start="20250810010600 +0800" stop="20250810023600 +0800">
-		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 3</title>
+	<programme channel="CCTV-5+" start="20250811010600 +0800" stop="20250811023600 +0800">
+		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 4</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250810023600 +0800" stop="20250810040000 +0800">
-		<title lang="zh">国际足球赛场-24-25赛季英超联赛第23轮 利物浦—伊普斯维奇（4K）</title>
+	<programme channel="CCTV-5+" start="20250811023600 +0800" stop="20250811040000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季西甲联赛第23轮 皇家马德里—马德里竞技（4K）</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250810040000 +0800" stop="20250810060000 +0800">
-		<title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 3</title>
+	<programme channel="CCTV-5+" start="20250811040000 +0800" stop="20250811060000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 半决赛</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250810060000 +0800" stop="20250810073000 +0800">
-		<title lang="zh">实况录像-2025年温布尔登网球赛 2</title>
+	<programme channel="CCTV-5+" start="20250811060000 +0800" stop="20250811073000 +0800">
+		<title lang="zh">实况录像-2025年世界田联钻石联赛 厦门站</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250810073000 +0800" stop="20250810083000 +0800">
-		<title lang="zh">2025年环法自行车赛-第18赛段</title>
+	<programme channel="CCTV-5+" start="20250811073000 +0800" stop="20250811090000 +0800">
+		<title lang="zh">实况录像-2025年温布尔登网球赛 3</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250810083000 +0800" stop="20250810102500 +0800">
-		<title lang="zh">实况录像-2025年温布尔登网球赛 男单决赛</title>
+	<programme channel="CCTV-5+" start="20250811090000 +0800" stop="20250811100000 +0800">
+		<title lang="zh">2025年环法自行车赛-第19赛段</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250810102500 +0800" stop="20250810111500 +0800">
-		<title lang="zh">实况录像-2025年世界泳联世锦赛 游泳比赛1</title>
+	<programme channel="CCTV-5+" start="20250811100000 +0800" stop="20250811113000 +0800">
+		<title lang="zh">实况录像-2025年男篮亚洲杯 小组赛 中国队—沙特阿拉伯队</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250810111500 +0800" stop="20250810124500 +0800">
-		<title lang="zh">实况录像-2025年男篮亚洲杯 小组赛 中国队—约旦队</title>
+	<programme channel="CCTV-5+" start="20250811113000 +0800" stop="20250811123500 +0800">
+		<title lang="zh">2025年成都世界运动会-棍网球女子决赛</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250810124500 +0800" stop="20250810131500 +0800">
-		<title lang="zh">2025年成都世界运动会-拔河女子铜牌赛、决赛</title>
+	<programme channel="CCTV-5+" start="20250811123500 +0800" stop="20250811143500 +0800">
+		<title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 1</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250810131500 +0800" stop="20250810134500 +0800">
-		<title lang="zh">2025年成都世界运动会-拔河男子铜牌赛、决赛（录播）</title>
+	<programme channel="CCTV-5+" start="20250811143500 +0800" stop="20250811160500 +0800">
+		<title lang="zh">实况录像-2025年中国羽毛球公开赛 1</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250810134500 +0800" stop="20250810163000 +0800">
-		<title lang="zh">2025年成都世界运动会-台球八球混合1/8决赛</title>
+	<programme channel="CCTV-5+" start="20250811160500 +0800" stop="20250811173500 +0800">
+		<title lang="zh">2025年东亚足球锦标赛-韩国女足—中国女足</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250810163000 +0800" stop="20250810193000 +0800">
-		<title lang="zh">2025年WTT横滨冠军赛 1/4决赛</title>
+	<programme channel="CCTV-5+" start="20250811173500 +0800" stop="20250811183500 +0800">
+		<title lang="zh">实况录像-2025年世界泳联世锦赛 跳水 女子双人10米台决赛</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250810193000 +0800" stop="20250810213000 +0800">
-		<title lang="zh">2025中国足球超级联赛 第20轮-（浙江俱乐部-北京国安）</title>
+	<programme channel="CCTV-5+" start="20250811183500 +0800" stop="20250811190000 +0800">
+		<title lang="zh">实况录像-2025年世界泳联世锦赛 游泳中国队比赛</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250810213000 +0800" stop="20250810223000 +0800">
-		<title lang="zh">2025年成都世界运动会-技巧男子4人决赛（录播）</title>
+	<programme channel="CCTV-5+" start="20250811190000 +0800" stop="20250811203500 +0800">
+		<title lang="zh">2025年成都世界运动会-轮滑球男子决赛</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250810223000 +0800" stop="20250810230000 +0800">
-		<title lang="zh">2025年成都世界运动会-蹦床女子双人同步决赛（录播）</title>
+	<programme channel="CCTV-5+" start="20250811203500 +0800" stop="20250811210500 +0800">
+		<title lang="zh">实况录像-2025年世界田联钻石联赛  摩纳哥站25分钟版</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250810230000 +0800" stop="20250810235900 +0800">
-		<title lang="zh">2025年男篮亚洲杯-小组赛（韩国队—黎巴嫩队）</title>
+	<programme channel="CCTV-5+" start="20250811210500 +0800" stop="20250811223500 +0800">
+		<title lang="zh">2025年ATP1000男子网球大师赛-多伦多站 1/4决赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20250811223500 +0800" stop="20250811235900 +0800">
+		<title lang="zh">实况录像-2025年世乒联大满贯赛 美国站 4</title>
 	</programme>
 </tv>
