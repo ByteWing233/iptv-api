@@ -1,5 +1,4 @@
 🕘️更新时间,#genre#
-2025-08-16 18:03:55,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv5p.flv
+2025-08-17 06:04:08,url
 
 📺央视频道,#genre#
-CCTV-5+,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv5p.flv
