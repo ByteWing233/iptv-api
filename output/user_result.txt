@@ -1,6 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-27 06:03:25,http://120.40.39.246:352/newlive/live/hls/1/live.m3u8
+2025-11-27 18:03:15,https://other.ottiptv.cc/wxty.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://120.40.39.246:352/newlive/live/hls/1/live.m3u8
 五星体育,https://other.ottiptv.cc/wxty.m3u8
