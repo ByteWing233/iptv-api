@@ -1,6 +1,9 @@
 🕘️更新时间,#genre#
-2026-01-28 06:03:42,http://23.237.228.134/live5/CCTV1.m3u8
+2026-01-28 18:05:30,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
 CCTV-5,http://23.237.228.134/live5/CCTV5.m3u8
+CCTV-5,http://117.36.76.86:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
+五星体育,https://gdcucc.v1.mk/gdcucc/wxty.m3u8
