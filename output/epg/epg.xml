@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260417221232 +0800">
+<tv date="20260418101411 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -648,7 +648,7 @@
 	<programme channel="CCTV-1" start="20260417223500 +0800" stop="20260417232200 +0800">
 		<title lang="zh">生活早参考-特别节目(生活圈)2026-15(精编)</title>
 	</programme>
-	<programme channel="CCTV-1" start="20260417232200 +0800" stop="20260418010100 +0800">
+	<programme channel="CCTV-1" start="20260417232200 +0800" stop="20260418000000 +0800">
 		<title lang="zh">山水间的家(第四季)-3</title>
 	</programme>
 	<programme channel="CCTV-1" start="20260418010100 +0800" stop="20260418013300 +0800">
@@ -744,7 +744,7 @@
 	<programme channel="CCTV-1" start="20260418223500 +0800" stop="20260418232500 +0800">
 		<title lang="zh">开讲啦-2026-8</title>
 	</programme>
-	<programme channel="CCTV-1" start="20260418232500 +0800" stop="20260419000000 +0800">
+	<programme channel="CCTV-1" start="20260418232500 +0800" stop="20260419004600 +0800">
 		<title lang="zh">星光大道-2026-22</title>
 	</programme>
 	<programme channel="CCTV-1" start="20260419004600 +0800" stop="20260419013000 +0800">
@@ -839,6 +839,72 @@
 	</programme>
 	<programme channel="CCTV-1" start="20260419231000 +0800" stop="20260420000000 +0800">
 		<title lang="zh">中华考工记-10</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260420000000 +0800" stop="20260420004300 +0800">
+		<title lang="zh">中华考工记(10)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260420004300 +0800" stop="20260420012700 +0800">
+		<title lang="zh">生活圈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260420012700 +0800" stop="20260420015700 +0800">
+		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260420015700 +0800" stop="20260420020900 +0800">
+		<title lang="zh">中华古树：明清石榴园古树群</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260420020900 +0800" stop="20260420021300 +0800">
+		<title lang="zh">《三餐四季Ⅱ》宣传片</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260420021300 +0800" stop="20260420021700 +0800">
+		<title lang="zh">《非遗里的中国》MV</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260420021700 +0800" stop="20260420025100 +0800">
+		<title lang="zh">国家荣光(34)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260420025100 +0800" stop="20260420042000 +0800">
+		<title lang="zh">中华考工记(10)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260420042000 +0800" stop="20260420045300 +0800">
+		<title lang="zh">本草流芳：灵芝</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260420045300 +0800" stop="20260420052700 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260420052700 +0800" stop="20260420055900 +0800">
+		<title lang="zh">自然中国：林下万物生-茂荫藏珍</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260420055900 +0800" stop="20260420060000 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260420060000 +0800" stop="20260420070000 +0800">
+		<title lang="zh">朝闻天下</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260420070000 +0800" stop="20260420070100 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260420070100 +0800" stop="20260420083600 +0800">
+		<title lang="zh">朝闻天下</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260420083600 +0800" stop="20260420092100 +0800">
+		<title lang="zh">生活圈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260420092100 +0800" stop="20260420101000 +0800">
+		<title lang="zh">四喜(25)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260420101000 +0800" stop="20260420105800 +0800">
+		<title lang="zh">四喜(26)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260420105800 +0800" stop="20260420114600 +0800">
+		<title lang="zh">四喜(27)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260420114600 +0800" stop="20260420120000 +0800">
+		<title lang="zh">中华古树：岭脚古樟树</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260420120000 +0800" stop="20260420123400 +0800">
+		<title lang="zh">新闻30分</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260420123400 +0800" stop="20260420130700 +0800">
+		<title lang="zh">今日说法</title>
 	</programme>
 	<channel id="CCTV-5">
 		<display-name lang="zh">CCTV-5</display-name>
@@ -1266,7 +1332,7 @@
 	<programme channel="CCTV-5" start="20260417233500 +0800" stop="20260417234500 +0800">
 		<title lang="zh">实况录像-荣耀十分-2026年艺术体操世界杯索菲亚站 中国队获集体5球单项金牌</title>
 	</programme>
-	<programme channel="CCTV-5" start="20260417234500 +0800" stop="20260418000500 +0800">
+	<programme channel="CCTV-5" start="20260417234500 +0800" stop="20260418000000 +0800">
 		<title lang="zh">实况录像-精彩一刻-2025/2026斯诺克世界公开赛 奥沙利文的153</title>
 	</programme>
 	<programme channel="CCTV-5" start="20260418000500 +0800" stop="20260418010500 +0800">
@@ -1329,7 +1395,7 @@
 	<programme channel="CCTV-5" start="20260418193000 +0800" stop="20260418215500 +0800">
 		<title lang="zh">2025/2026赛季中国男子篮球职业联赛常规赛-第40轮(辽宁本钢 - 浙江稠州金租)</title>
 	</programme>
-	<programme channel="CCTV-5" start="20260418215500 +0800" stop="20260419000000 +0800">
+	<programme channel="CCTV-5" start="20260418215500 +0800" stop="20260419001000 +0800">
 		<title lang="zh">2025/2026英格兰足球超级联赛-第33轮(纽卡斯尔联-伯恩茅斯)</title>
 	</programme>
 	<programme channel="CCTV-5" start="20260419001000 +0800" stop="20260419011000 +0800">
@@ -1400,6 +1466,51 @@
 	</programme>
 	<programme channel="CCTV-5" start="20260419232500 +0800" stop="20260420000000 +0800">
 		<title lang="zh">2025/2026德国足球甲级联赛-第30轮(拜仁慕尼黑-斯图加特)</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260420000000 +0800" stop="20260420014000 +0800">
+		<title lang="zh">德甲第30轮：拜仁慕尼黑-斯图加特</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260420014000 +0800" stop="20260420023800 +0800">
+		<title lang="zh">世界泳联花样游泳世界杯法国站</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260420023800 +0800" stop="20260420040000 +0800">
+		<title lang="zh">CBA：青岛崂山啤酒-北京控股</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260420053000 +0800" stop="20260420055500 +0800">
+		<title lang="zh">米兰科尔蒂纳冬奥会越野滑雪女子</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260420055500 +0800" stop="20260420060000 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260420060000 +0800" stop="20260420063000 +0800">
+		<title lang="zh">米兰科尔蒂纳冬奥会男子钢架雪车</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260420063000 +0800" stop="20260420070000 +0800">
+		<title lang="zh">健身动起来</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260420070000 +0800" stop="20260420080300 +0800">
+		<title lang="zh">体坛晨报</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260420080300 +0800" stop="20260420090100 +0800">
+		<title lang="zh">2026年体操世界杯奥西耶克站</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260420090100 +0800" stop="20260420103100 +0800">
+		<title lang="zh">德甲第30轮：勒沃库森-奥格斯堡</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260420103100 +0800" stop="20260420115500 +0800">
+		<title lang="zh">CBA：深圳马可波罗-山东高速</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260420115500 +0800" stop="20260420120000 +0800">
+		<title lang="zh">健身动起来</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260420120000 +0800" stop="20260420123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260420123500 +0800" stop="20260420125800 +0800">
+		<title lang="zh">艺术里的奥林匹克</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260420125800 +0800" stop="20260420143000 +0800">
+		<title lang="zh">2025/2026世界斯诺克锦标赛第1轮</title>
 	</programme>
 	<channel id="CCTV-5+">
 		<display-name lang="zh">CCTV-5+</display-name>
@@ -1731,7 +1842,7 @@
 	<programme channel="CCTV-5+" start="20260417220600 +0800" stop="20260417233500 +0800">
 		<title lang="zh">实况录像-2025/2026赛季欧洲篮球联赛 第37轮 费内巴切-皇家马德里</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20260417233500 +0800" stop="20260418010600 +0800">
+	<programme channel="CCTV-5+" start="20260417233500 +0800" stop="20260418000000 +0800">
 		<title lang="zh">2026年世界女子冰壶锦标赛-2</title>
 	</programme>
 	<programme channel="CCTV-5+" start="20260418010600 +0800" stop="20260418023600 +0800">
@@ -1782,7 +1893,7 @@
 	<programme channel="CCTV-5+" start="20260418212500 +0800" stop="20260418234000 +0800">
 		<title lang="zh">2025/2026德国足球甲级联赛-第30轮(勒沃库森-奥格斯堡)</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20260418234000 +0800" stop="20260419000000 +0800">
+	<programme channel="CCTV-5+" start="20260418234000 +0800" stop="20260419011100 +0800">
 		<title lang="zh">2026年世界女子冰壶锦标赛-3</title>
 	</programme>
 	<programme channel="CCTV-5+" start="20260419011100 +0800" stop="20260419023800 +0800">
@@ -1829,5 +1940,38 @@
 	</programme>
 	<programme channel="CCTV-5+" start="20260419231000 +0800" stop="20260420000000 +0800">
 		<title lang="zh">实况录像-2026年亚洲羽毛球锦标赛 1</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260420000000 +0800" stop="20260420000900 +0800">
+		<title lang="zh">2026年亚洲羽毛球锦标赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260420000900 +0800" stop="20260420010900 +0800">
+		<title lang="zh">2026年国际马联国家联赛奥卡拉站</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260420010900 +0800" stop="20260420023600 +0800">
+		<title lang="zh">CBA第37轮：北京控股-北京北汽</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260420023600 +0800" stop="20260420040000 +0800">
+		<title lang="zh">法甲联赛第6轮：洛里昂-摩纳哥</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260420040000 +0800" stop="20260420060000 +0800">
+		<title lang="zh">2025/2026斯诺克国际锦标赛决赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260420060000 +0800" stop="20260420072700 +0800">
+		<title lang="zh">2025年世界田联钻石联赛尤金站</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260420072700 +0800" stop="20260420082700 +0800">
+		<title lang="zh">2026年蹦床世界杯阿尔克马尔站</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260420082700 +0800" stop="20260420095700 +0800">
+		<title lang="zh">CBA：辽宁本钢-浙江稠州金租</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260420095700 +0800" stop="20260420105800 +0800">
+		<title lang="zh">2026年世界室内田径锦标赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260420105800 +0800" stop="20260420115900 +0800">
+		<title lang="zh">2026年亚洲羽毛球锦标赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260420132900 +0800" stop="20260420150000 +0800">
+		<title lang="zh">2026年ATP1000男子网球大师赛</title>
 	</programme>
 </tv>
