@@ -1,2 +1,2 @@
-Name: CCTV-1, URL: http://198.204.240.250:82/live/cctv1.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 4735 ms, Speed: 0.86 M/s, Resolution: 1920x1080
-Name: 五星体育, URL: http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 10197 ms, Speed: 0.14 M/s, Resolution: 1280x720
+Name: CCTV-1, URL: http://198.204.240.250:82/live/cctv1.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 680 ms, Speed: 6.26 M/s, Resolution: 1920x1080
+Name: 五星体育, URL: http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 303 ms, Speed: 0.81 M/s, Resolution: 1280x720
