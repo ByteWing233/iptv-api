@@ -1,4 +1,2 @@
-Name: CCTV-1, URL: http://198.204.240.250:82/live/cctv1.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 407 ms, Speed: 9.79 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: http://125.43.244.34:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-河南-焦作, ISP: 联通, Date: None, Delay: 10761 ms, Speed: 0.01 M/s, Resolution: 1920x1080
-Name: CCTV-5, URL: http://125.43.244.34:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-河南-焦作, ISP: 联通, Date: None, Delay: 10756 ms, Speed: 0.01 M/s, Resolution: None
-Name: 五星体育, URL: http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 6229 ms, Speed: 0.86 M/s, Resolution: 1280x720
+Name: CCTV-1, URL: http://198.204.240.250:82/live/cctv1.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 554 ms, Speed: 6.91 M/s, Resolution: 1920x1080
+Name: 五星体育, URL: http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 10784 ms, Speed: 0.21 M/s, Resolution: 1280x720
