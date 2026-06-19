@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260618224337 +0800">
+<tv date="20260619113050 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -651,7 +651,7 @@
 	<programme channel="CCTV-1" start="20260618220000 +0800" stop="20260618223600 +0800">
 		<title lang="zh">晚间新闻</title>
 	</programme>
-	<programme channel="CCTV-1" start="20260618223600 +0800" stop="20260619001500 +0800">
+	<programme channel="CCTV-1" start="20260618223600 +0800" stop="20260619000000 +0800">
 		<title lang="zh">宗师列传唐宋八大家-苏轼苏辙下</title>
 	</programme>
 	<programme channel="CCTV-1" start="20260619001500 +0800" stop="20260619004900 +0800">
@@ -753,7 +753,7 @@
 	<programme channel="CCTV-1" start="20260619223600 +0800" stop="20260619232700 +0800">
 		<title lang="zh">开讲啦-2026-18</title>
 	</programme>
-	<programme channel="CCTV-1" start="20260619232700 +0800" stop="20260620000000 +0800">
+	<programme channel="CCTV-1" start="20260619232700 +0800" stop="20260620010300 +0800">
 		<title lang="zh">非遗里的中国(第三季)-海南篇(精编)</title>
 	</programme>
 	<programme channel="CCTV-1" start="20260620010600 +0800" stop="20260620011800 +0800">
@@ -845,6 +845,69 @@
 	</programme>
 	<programme channel="CCTV-1" start="20260620233700 +0800" stop="20260621000000 +0800">
 		<title lang="zh">非遗里的中国(第三季)-中国茶篇(精编)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260621000000 +0800" stop="20260621011100 +0800">
+		<title lang="zh">非遗里的中国Ⅲ：中国茶篇精编</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260621011100 +0800" stop="20260621015500 +0800">
+		<title lang="zh">生活圈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260621015500 +0800" stop="20260621020500 +0800">
+		<title lang="zh">中华古树：功勋树</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260621020500 +0800" stop="20260621023700 +0800">
+		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260621023700 +0800" stop="20260621024900 +0800">
+		<title lang="zh">中华古树：荣昌黄葛树古树群</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260621024900 +0800" stop="20260621042000 +0800">
+		<title lang="zh">非遗里的中国Ⅲ：中国茶篇精编</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260621042000 +0800" stop="20260621045300 +0800">
+		<title lang="zh">本草流芳：甘草</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260621045300 +0800" stop="20260621052700 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260621052700 +0800" stop="20260621055900 +0800">
+		<title lang="zh">寻古中国Ⅱ：寻商记(5)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260621055900 +0800" stop="20260621060000 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260621060000 +0800" stop="20260621070000 +0800">
+		<title lang="zh">朝闻天下</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260621070000 +0800" stop="20260621070100 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260621070100 +0800" stop="20260621083500 +0800">
+		<title lang="zh">朝闻天下</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260621083500 +0800" stop="20260621092100 +0800">
+		<title lang="zh">生活圈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260621092100 +0800" stop="20260621095300 +0800">
+		<title lang="zh">本草流芳：灵芝</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260621095300 +0800" stop="20260621100000 +0800">
+		<title lang="zh">《非遗里的中国》MV</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260621100000 +0800" stop="20260621110600 +0800">
+		<title lang="zh">家国端阳</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260621110600 +0800" stop="20260621115400 +0800">
+		<title lang="zh">太行谣(24)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260621115400 +0800" stop="20260621120000 +0800">
+		<title lang="zh">秘境之眼</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260621120000 +0800" stop="20260621123400 +0800">
+		<title lang="zh">新闻30分</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260621123400 +0800" stop="20260621141300 +0800">
+		<title lang="zh">非遗里的中国Ⅳ：福建福州篇精编</title>
 	</programme>
 	<channel id="CCTV-5">
 		<display-name lang="zh">CCTV-5</display-name>
@@ -1080,7 +1143,7 @@
 	<programme channel="CCTV-5" start="20260618213000 +0800" stop="20260618223000 +0800">
 		<title lang="zh">2026年美加墨世界杯报道-如约而至-8</title>
 	</programme>
-	<programme channel="CCTV-5" start="20260618223000 +0800" stop="20260619023000 +0800">
+	<programme channel="CCTV-5" start="20260618223000 +0800" stop="20260619000000 +0800">
 		<title lang="zh">2026世界杯-小组赛A组第二轮(捷克-南非)</title>
 	</programme>
 	<programme channel="CCTV-5" start="20260619023000 +0800" stop="20260619053000 +0800">
@@ -1116,7 +1179,7 @@
 	<programme channel="CCTV-5" start="20260619220000 +0800" stop="20260619230500 +0800">
 		<title lang="zh">2026年美加墨世界杯报道-如约而至-9</title>
 	</programme>
-	<programme channel="CCTV-5" start="20260619230500 +0800" stop="20260620000000 +0800">
+	<programme channel="CCTV-5" start="20260619230500 +0800" stop="20260620003500 +0800">
 		<title lang="zh">实况录像-2026世界杯小组赛B组第二轮 瑞士队-波黑队</title>
 	</programme>
 	<programme channel="CCTV-5" start="20260620003500 +0800" stop="20260620010000 +0800">
@@ -1163,6 +1226,42 @@
 	</programme>
 	<programme channel="CCTV-5" start="20260620233000 +0800" stop="20260621000000 +0800">
 		<title lang="zh">2026世界杯-小组赛F组第二轮(荷兰-瑞典)</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260621000000 +0800" stop="20260621033000 +0800">
+		<title lang="zh">2026世界杯小组赛F组：荷兰-瑞典</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260621033000 +0800" stop="20260621055500 +0800">
+		<title lang="zh">2026世界杯小组赛：德国-科特迪瓦</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260621055500 +0800" stop="20260621060000 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260621060000 +0800" stop="20260621063000 +0800">
+		<title lang="zh">2026世界杯小组赛：德国-科特迪瓦</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260621063000 +0800" stop="20260621073000 +0800">
+		<title lang="zh">2026世界杯：厄瓜多尔-库拉索</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260621073000 +0800" stop="20260621083000 +0800">
+		<title lang="zh">2026世界杯：厄瓜多尔-库拉索</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260621083000 +0800" stop="20260621093000 +0800">
+		<title lang="zh">2026世界杯：厄瓜多尔-库拉索</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260621093000 +0800" stop="20260621103000 +0800">
+		<title lang="zh">2026世界杯：厄瓜多尔-库拉索</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260621103000 +0800" stop="20260621113000 +0800">
+		<title lang="zh">2026世界杯小组赛：突尼斯-日本</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260621113000 +0800" stop="20260621123000 +0800">
+		<title lang="zh">2026世界杯小组赛：突尼斯-日本</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260621123000 +0800" stop="20260621133000 +0800">
+		<title lang="zh">2026世界杯小组赛：突尼斯-日本</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260621133000 +0800" stop="20260621143000 +0800">
+		<title lang="zh">2026世界杯小组赛：突尼斯-日本</title>
 	</programme>
 	<channel id="CCTV-5+">
 		<display-name lang="zh">CCTV-5+</display-name>
@@ -1467,7 +1566,7 @@
 	<programme channel="CCTV-5+" start="20260618213500 +0800" stop="20260618230500 +0800">
 		<title lang="zh">实况录像-2026世界杯小组赛J组第一轮 阿根廷队-阿尔及利亚队</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20260618230500 +0800" stop="20260619000500 +0800">
+	<programme channel="CCTV-5+" start="20260618230500 +0800" stop="20260619000000 +0800">
 		<title lang="zh">2026年花样游泳世界杯-西班牙站 3</title>
 	</programme>
 	<programme channel="CCTV-5+" start="20260619000500 +0800" stop="20260619010500 +0800">
@@ -1512,7 +1611,7 @@
 	<programme channel="CCTV-5+" start="20260619210000 +0800" stop="20260619230500 +0800">
 		<title lang="zh">2026年世界女排联赛-土耳其站 (法国队-中国队)</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20260619230500 +0800" stop="20260620000000 +0800">
+	<programme channel="CCTV-5+" start="20260619230500 +0800" stop="20260620003600 +0800">
 		<title lang="zh">实况录像-2025/2026赛季世界斯诺克锦标赛 3</title>
 	</programme>
 	<programme channel="CCTV-5+" start="20260620003600 +0800" stop="20260620010600 +0800">
@@ -1565,5 +1664,38 @@
 	</programme>
 	<programme channel="CCTV-5+" start="20260620230500 +0800" stop="20260621000000 +0800">
 		<title lang="zh">2026年法国网球公开赛-女单决赛(4K)</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260621000000 +0800" stop="20260621003500 +0800">
+		<title lang="zh">2026年法国网球公开赛女单决赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260621003500 +0800" stop="20260621010500 +0800">
+		<title lang="zh">2026年世界田联钻石联赛奥斯陆站</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260621010500 +0800" stop="20260621023500 +0800">
+		<title lang="zh">2025/2026赛季CBA半决赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260621023500 +0800" stop="20260621040000 +0800">
+		<title lang="zh">国际冰联男子冰球世锦赛顶级组</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260621040000 +0800" stop="20260621060000 +0800">
+		<title lang="zh">2025/2026赛季斯诺克西安大奖赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260621060000 +0800" stop="20260621073000 +0800">
+		<title lang="zh">2026年世界田联钻石联赛拉巴特站</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260621073000 +0800" stop="20260621083000 +0800">
+		<title lang="zh">体操世界挑战杯系列赛瓦尔纳站</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260621083000 +0800" stop="20260621100100 +0800">
+		<title lang="zh">世界乒乓球团体锦标赛男团决赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260621100100 +0800" stop="20260621103100 +0800">
+		<title lang="zh">2026年世界田联钻石联赛奥斯陆站</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260621103100 +0800" stop="20260621120000 +0800">
+		<title lang="zh">2026年中国男篮热身赛长沙站</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260621120000 +0800" stop="20260621140200 +0800">
+		<title lang="zh">世界女排联赛：塞尔维亚-美国</title>
 	</programme>
 </tv>
