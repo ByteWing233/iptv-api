@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260717224022 +0800">
+<tv date="20260718105624 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -879,6 +879,48 @@
 	<programme channel="CCTV-1" start="20260720012800 +0800" stop="20260720025000 +0800">
 		<title lang="zh">2026世界杯铜牌赛：法国-英格兰</title>
 	</programme>
+	<programme channel="CCTV-1" start="20260720025000 +0800" stop="20260720055900 +0800">
+		<title lang="zh">2026世界杯决赛：西班牙-阿根廷</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260720055900 +0800" stop="20260720060000 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260720060000 +0800" stop="20260720070000 +0800">
+		<title lang="zh">朝闻天下</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260720070000 +0800" stop="20260720070100 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260720070100 +0800" stop="20260720083600 +0800">
+		<title lang="zh">朝闻天下</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260720083600 +0800" stop="20260720092000 +0800">
+		<title lang="zh">生活圈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260720092000 +0800" stop="20260720101000 +0800">
+		<title lang="zh">爱情有烟火(31)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260720101000 +0800" stop="20260720110100 +0800">
+		<title lang="zh">爱情有烟火(32)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260720110100 +0800" stop="20260720115000 +0800">
+		<title lang="zh">爱情有烟火(33)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260720115000 +0800" stop="20260720115400 +0800">
+		<title lang="zh">《三餐四季Ⅱ》宣传片</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260720115400 +0800" stop="20260720120000 +0800">
+		<title lang="zh">秘境之眼</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260720120000 +0800" stop="20260720123300 +0800">
+		<title lang="zh">新闻30分</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260720123300 +0800" stop="20260720130500 +0800">
+		<title lang="zh">今日说法</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260720130500 +0800" stop="20260720135200 +0800">
+		<title lang="zh">六姊妹(34)</title>
+	</programme>
 	<channel id="CCTV-5">
 		<display-name lang="zh">CCTV-5</display-name>
 	</channel>
@@ -1335,6 +1377,33 @@
 	<programme channel="CCTV-5" start="20260720010000 +0800" stop="20260720060000 +0800">
 		<title lang="zh">美加墨世界杯决赛：西班牙-阿根廷</title>
 	</programme>
+	<programme channel="CCTV-5" start="20260720060000 +0800" stop="20260720063000 +0800">
+		<title lang="zh">燃动金杯：2026年世界杯进球集锦</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260720063000 +0800" stop="20260720070000 +0800">
+		<title lang="zh">燃动金杯：2026年世界杯进球集锦</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260720070000 +0800" stop="20260720080300 +0800">
+		<title lang="zh">体坛晨报</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260720080300 +0800" stop="20260720090000 +0800">
+		<title lang="zh">2026年环法自行车赛第14赛段</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260720090000 +0800" stop="20260720110300 +0800">
+		<title lang="zh">世界男排联赛美国站：美国-波兰</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260720110300 +0800" stop="20260720123000 +0800">
+		<title lang="zh">2026世界杯决赛</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260720123000 +0800" stop="20260720130500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260720130500 +0800" stop="20260720132800 +0800">
+		<title lang="zh">艺术里的奥林匹克</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260720132800 +0800" stop="20260720150000 +0800">
+		<title lang="zh">2026国际篮联U17女篮世界杯决赛</title>
+	</programme>
 	<channel id="CCTV-5+">
 		<display-name lang="zh">CCTV-5+</display-name>
 	</channel>
@@ -1781,5 +1850,35 @@
 	</programme>
 	<programme channel="CCTV-5+" start="20260720010000 +0800" stop="20260720030500 +0800">
 		<title lang="zh">世界男排联赛美国站：中国-巴西</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260720030500 +0800" stop="20260720040000 +0800">
+		<title lang="zh">2026年世界艺术体操挑战杯系列赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260720040000 +0800" stop="20260720060000 +0800">
+		<title lang="zh">2025/2026赛季斯诺克西安大奖赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260720060000 +0800" stop="20260720070000 +0800">
+		<title lang="zh">2026年环法自行车赛第14赛段</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260720070000 +0800" stop="20260720083000 +0800">
+		<title lang="zh">世界田联钻石联赛斯德哥尔摩站</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260720083000 +0800" stop="20260720090000 +0800">
+		<title lang="zh">燃动金杯：2026年世界杯进球集锦</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260720090000 +0800" stop="20260720093000 +0800">
+		<title lang="zh">2026年射箭世界杯土耳其站</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260720093000 +0800" stop="20260720105500 +0800">
+		<title lang="zh">2026世界杯：加拿大-摩洛哥</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260720105500 +0800" stop="20260720110000 +0800">
+		<title lang="zh">健身动起来</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260720110000 +0800" stop="20260720123000 +0800">
+		<title lang="zh">2026年国际篮联U17女篮世界杯</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260720123000 +0800" stop="20260720140100 +0800">
+		<title lang="zh">世界男排联赛美国站：中国-法国</title>
 	</programme>
 </tv>
