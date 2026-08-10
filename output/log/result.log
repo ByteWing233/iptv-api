@@ -1,10 +1,4 @@
-Name: CCTV-1, URL: http://219.147.245.238:25480/newlive/live/hls/1/live.m3u8, IPv_Type: ipv4, Location: 中国-黑龙江-绥化, ISP: 电信, Date: None, Delay: 10285 ms, Speed: 0.17 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: http://113.57.140.161:10081/newlive/live/hls/1/live.m3u8, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 联通, Date: None, Delay: 10487 ms, Speed: 0.10 M/s, Resolution: None
-Name: CCTV-1, URL: http://118.122.144.115:8888/newlive/live/hls/1/live.m3u8, IPv_Type: ipv4, Location: 中国-四川-绵阳, ISP: 电信, Date: None, Delay: 10147 ms, Speed: 0.06 M/s, Resolution: None
-Name: CCTV-1, URL: http://58.56.162.102:4466/newlive/live/hls/1/live.m3u8, IPv_Type: ipv4, Location: 中国-山东-青岛, ISP: 电信, Date: None, Delay: 10438 ms, Speed: 0.03 M/s, Resolution: None
-Name: CCTV-5, URL: http://219.147.245.238:25480/newlive/live/hls/5/live.m3u8, IPv_Type: ipv4, Location: 中国-黑龙江-绥化, ISP: 电信, Date: None, Delay: 10544 ms, Speed: 0.08 M/s, Resolution: None
-Name: CCTV-5, URL: http://112.27.145.212:9902/tsfile/live/1504_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 10526 ms, Speed: 0.08 M/s, Resolution: 720x576
-Name: CCTV-5, URL: http://58.56.162.102:4466/newlive/live/hls/5/live.m3u8, IPv_Type: ipv4, Location: 中国-山东-青岛, ISP: 电信, Date: None, Delay: 10400 ms, Speed: 0.02 M/s, Resolution: None
-Name: CCTV-5, URL: http://113.101.119.74:8090/hls/58/index.m3u8, IPv_Type: ipv4, Location: 中国-广东, ISP: 电信, Date: None, Delay: 10812 ms, Speed: 0.02 M/s, Resolution: None
-Name: CCTV-5+, URL: http://113.101.119.74:8090/hls/10/index.m3u8, IPv_Type: ipv4, Location: 中国-广东, ISP: 电信, Date: None, Delay: 10477 ms, Speed: 0.02 M/s, Resolution: None
-Name: 五星体育, URL: http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 10053 ms, Speed: 0.14 M/s, Resolution: 1280x720
+Name: CCTV-1, URL: http://101.66.199.252:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0, IPv_Type: ipv4, Location: 中国-浙江-金华, ISP: 联通, Date: None, Delay: 10404 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-5, URL: http://101.66.199.65:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0, IPv_Type: ipv4, Location: 中国-浙江-金华, ISP: 联通, Date: None, Delay: 10473 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-5, URL: http://101.66.199.253:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0, IPv_Type: ipv4, Location: 中国-浙江-金华, ISP: 联通, Date: None, Delay: 10713 ms, Speed: 0.00 M/s, Resolution: None
+Name: 五星体育, URL: http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 194 ms, Speed: 1.28 M/s, Resolution: 1280x720
