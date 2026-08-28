@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260827200449 +0800">
+<tv date="20260828055425 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -648,7 +648,7 @@
 	<programme channel="CCTV-1" start="20260827223500 +0800" stop="20260827231100 +0800">
 		<title lang="zh">自然中国-智绘中国-数智生活</title>
 	</programme>
-	<programme channel="CCTV-1" start="20260827231100 +0800" stop="20260828005000 +0800">
+	<programme channel="CCTV-1" start="20260827231100 +0800" stop="20260828000000 +0800">
 		<title lang="zh">2024中国诗词大会-3</title>
 	</programme>
 	<programme channel="CCTV-1" start="20260828005000 +0800" stop="20260828012000 +0800">
@@ -857,6 +857,12 @@
 	</programme>
 	<programme channel="CCTV-1" start="20260829233300 +0800" stop="20260830000000 +0800">
 		<title lang="zh">2024中国诗词大会-5</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260830000000 +0800" stop="20260830011100 +0800">
+		<title lang="zh">中国诗词大会(5)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260830011100 +0800" stop="20260830015500 +0800">
+		<title lang="zh">生活圈</title>
 	</programme>
 	<channel id="CCTV-5">
 		<display-name lang="zh">CCTV-5</display-name>
@@ -1266,7 +1272,7 @@
 	<programme channel="CCTV-5" start="20260827221000 +0800" stop="20260827235500 +0800">
 		<title lang="zh">2026年世界赛艇锦标赛-混合PR2级双人双桨等</title>
 	</programme>
-	<programme channel="CCTV-5" start="20260827235500 +0800" stop="20260828020500 +0800">
+	<programme channel="CCTV-5" start="20260827235500 +0800" stop="20260828000000 +0800">
 		<title lang="zh">2027年男篮世界杯亚洲区预选赛-卡塔尔队-中国队</title>
 	</programme>
 	<programme channel="CCTV-5" start="20260828020500 +0800" stop="20260828023600 +0800">
@@ -1335,7 +1341,7 @@
 	<programme channel="CCTV-5" start="20260828222500 +0800" stop="20260828235500 +0800">
 		<title lang="zh">2026年世界赛艇锦标赛-女子双人单桨等</title>
 	</programme>
-	<programme channel="CCTV-5" start="20260828235500 +0800" stop="20260829000000 +0800">
+	<programme channel="CCTV-5" start="20260828235500 +0800" stop="20260829011000 +0800">
 		<title lang="zh">实况录像-2026年中国女篮热身赛&amp;ensp;中国队-尼日利亚队&amp;ensp;第一场</title>
 	</programme>
 	<programme channel="CCTV-5" start="20260829011000 +0800" stop="20260829023600 +0800">
@@ -1400,6 +1406,15 @@
 	</programme>
 	<programme channel="CCTV-5" start="20260829220000 +0800" stop="20260830000000 +0800">
 		<title lang="zh">2026/2027英格兰足球超级联赛-第2轮(考文垂城-赫尔城)</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260830000000 +0800" stop="20260830000500 +0800">
+		<title lang="zh">英超联赛第2轮:考文垂城-赫尔城</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260830000500 +0800" stop="20260830010600 +0800">
+		<title lang="zh">2026国际体联蹦床世界杯阿罗萨站</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260830010600 +0800" stop="20260830023600 +0800">
+		<title lang="zh">2026-2027法甲第1轮:朗斯-欧塞尔</title>
 	</programme>
 	<channel id="CCTV-5+">
 		<display-name lang="zh">CCTV-5+</display-name>
@@ -1704,7 +1719,7 @@
 	<programme channel="CCTV-5+" start="20260827213500 +0800" stop="20260827230600 +0800">
 		<title lang="zh">2026年ATP1000男子网球大师赛-辛辛那提站&amp;ensp;半决赛(4K)</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20260827230600 +0800" stop="20260828003600 +0800">
+	<programme channel="CCTV-5+" start="20260827230600 +0800" stop="20260828000000 +0800">
 		<title lang="zh">实况录像-2026年世界田联钻石联赛&amp;ensp;伦敦站</title>
 	</programme>
 	<programme channel="CCTV-5+" start="20260828003600 +0800" stop="20260828010600 +0800">
@@ -1758,7 +1773,7 @@
 	<programme channel="CCTV-5+" start="20260828214000 +0800" stop="20260828231100 +0800">
 		<title lang="zh">2026年ATP1000男子网球大师赛-辛辛那提站&amp;ensp;决赛(4K)</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20260828231100 +0800" stop="20260829000000 +0800">
+	<programme channel="CCTV-5+" start="20260828231100 +0800" stop="20260829004100 +0800">
 		<title lang="zh">实况录像-2026年世界男排联赛总决赛&amp;ensp;半决赛&amp;ensp;2</title>
 	</programme>
 	<programme channel="CCTV-5+" start="20260829004100 +0800" stop="20260829010900 +0800">
@@ -1817,5 +1832,11 @@
 	</programme>
 	<programme channel="CCTV-5+" start="20260829231500 +0800" stop="20260830000000 +0800">
 		<title lang="zh">2026/2027法国足球甲级联赛-第2轮(斯特拉斯堡-朗斯)</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260830000000 +0800" stop="20260830012100 +0800">
+		<title lang="zh">法甲联赛第2轮:斯特拉斯堡-朗斯</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260830012100 +0800" stop="20260830024800 +0800">
+		<title lang="zh">2025/2026赛季CBA半决赛</title>
 	</programme>
 </tv>
