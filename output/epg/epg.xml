@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20261125194041 +0800">
+<tv date="20261126035143 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -726,6 +726,9 @@
 	<programme channel="CCTV-1" start="20261126012300 +0800" stop="20261126015500 +0800">
 		<title lang="zh">晚间新闻</title>
 	</programme>
+	<programme channel="CCTV-1" start="20261126012300 +0800" stop="20261126015500 +0800">
+		<title lang="zh">晚间新闻</title>
+	</programme>
 	<programme channel="CCTV-1" start="20261126015500 +0800" stop="20261126020500 +0800">
 		<title lang="zh">中华古树：黄山迎客松</title>
 	</programme>
@@ -792,9 +795,6 @@
 	<programme channel="CCTV-1" start="20261126130800 +0800" stop="20261126135500 +0800">
 		<title lang="zh">冬去春来(30)</title>
 	</programme>
-	<programme channel="CCTV-1" start="20261126130800 +0800" stop="20261126135500 +0800">
-		<title lang="zh">冬去春来(30)</title>
-	</programme>
 	<programme channel="CCTV-1" start="20261126135500 +0800" stop="20261126144200 +0800">
 		<title lang="zh">冬去春来(31)</title>
 	</programme>
@@ -848,6 +848,9 @@
 	</programme>
 	<programme channel="CCTV-1" start="20261127003900 +0800" stop="20261127012300 +0800">
 		<title lang="zh">生活圈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261127012300 +0800" stop="20261127015500 +0800">
+		<title lang="zh">晚间新闻</title>
 	</programme>
 	<programme channel="CCTV-1" start="20261127012300 +0800" stop="20261127015500 +0800">
 		<title lang="zh">晚间新闻</title>
@@ -914,6 +917,48 @@
 	</programme>
 	<programme channel="CCTV-1" start="20261127123500 +0800" stop="20261127130800 +0800">
 		<title lang="zh">今日说法</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261127170400 +0800" stop="20261127175000 +0800">
+		<title lang="zh">生活圈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261127175000 +0800" stop="20261127182200 +0800">
+		<title lang="zh">国家荣光(26)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261127182200 +0800" stop="20261127185200 +0800">
+		<title lang="zh">自然中国：青海-峡谷万物生</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261127185200 +0800" stop="20261127190000 +0800">
+		<title lang="zh">秘境之眼</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261127190000 +0800" stop="20261127193200 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261127193200 +0800" stop="20261127193800 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261127193800 +0800" stop="20261127200500 +0800">
+		<title lang="zh">焦点访谈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261127200500 +0800" stop="20261127214800 +0800">
+		<title lang="zh">宗师列传·先秦诸子传：孔子(上)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261127214800 +0800" stop="20261127220000 +0800">
+		<title lang="zh">《三餐四季》宣传片</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261127220000 +0800" stop="20261127223600 +0800">
+		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261127223600 +0800" stop="20261128000700 +0800">
+		<title lang="zh">三餐四季Ⅲ(6)：江西</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261128000700 +0800" stop="20261128003800 +0800">
+		<title lang="zh">今日说法</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261128003800 +0800" stop="20261128012200 +0800">
+		<title lang="zh">生活圈</title>
+	</programme>
+	<programme channel="CCTV-1" start="20261128012200 +0800" stop="20261128015200 +0800">
+		<title lang="zh">晚间新闻</title>
 	</programme>
 	<channel id="CCTV-5">
 		<display-name lang="zh">CCTV-5</display-name>
@@ -1425,7 +1470,19 @@
 	<programme channel="CCTV-5" start="20261125230000 +0800" stop="20261125233000 +0800">
 		<title lang="zh">短道速滑世界巡回赛韩国首尔站</title>
 	</programme>
-	<programme channel="CCTV-5" start="20261125233000 +0800" stop="20261126013500 +0800">
+	<programme channel="CCTV-5" start="20261125233000 +0800" stop="20261126000000 +0800">
+		<title lang="zh">国际足联U17世界杯:丹麦-阿根廷</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261126000000 +0800" stop="20261126002700 +0800">
+		<title lang="zh">开始</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261126002700 +0800" stop="20261126003700 +0800">
+		<title lang="zh">国际足联U17世界杯进球集锦</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261126003700 +0800" stop="20261126013500 +0800">
+		<title lang="zh">国际足联U17世界杯:丹麦-阿根廷</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261126003700 +0800" stop="20261126013500 +0800">
 		<title lang="zh">国际足联U17世界杯:丹麦-阿根廷</title>
 	</programme>
 	<programme channel="CCTV-5" start="20261126013500 +0800" stop="20261126023600 +0800">
@@ -1473,9 +1530,6 @@
 	<programme channel="CCTV-5" start="20261126125800 +0800" stop="20261126143000 +0800">
 		<title lang="zh">2026/2027花样滑冰大奖赛美国站</title>
 	</programme>
-	<programme channel="CCTV-5" start="20261126125800 +0800" stop="20261126143000 +0800">
-		<title lang="zh">2026/2027花样滑冰大奖赛美国站</title>
-	</programme>
 	<programme channel="CCTV-5" start="20261126143000 +0800" stop="20261126160000 +0800">
 		<title lang="zh">2026年ATP年终总决赛</title>
 	</programme>
@@ -1514,6 +1568,102 @@
 	</programme>
 	<programme channel="CCTV-5" start="20261126234500 +0800" stop="20261127000000 +0800">
 		<title lang="zh">体育世界</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127000000 +0800" stop="20261127010600 +0800">
+		<title lang="zh">国际足联U17世界杯:中国-斐济</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127010600 +0800" stop="20261127023600 +0800">
+		<title lang="zh">意甲联赛第11轮:都灵-莱切</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127010600 +0800" stop="20261127023600 +0800">
+		<title lang="zh">意甲联赛第11轮:都灵-莱切</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127023600 +0800" stop="20261127040000 +0800">
+		<title lang="zh">CBA第7轮:山东高速-广东东阳光</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127040000 +0800" stop="20261127053000 +0800">
+		<title lang="zh">2026世界田联钻石联赛布鲁塞尔站</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127053000 +0800" stop="20261127055500 +0800">
+		<title lang="zh">精品赛事记录:2026年射箭世界杯</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127055500 +0800" stop="20261127060000 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127060000 +0800" stop="20261127063000 +0800">
+		<title lang="zh">2026/2027英超联赛第8轮集锦</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127063000 +0800" stop="20261127070000 +0800">
+		<title lang="zh">健身动起来</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127070000 +0800" stop="20261127080300 +0800">
+		<title lang="zh">体坛晨报</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127080300 +0800" stop="20261127090100 +0800">
+		<title lang="zh">2026年世界举重锦标赛</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127090100 +0800" stop="20261127103100 +0800">
+		<title lang="zh">意甲联赛第12轮:拉齐奥-莱切</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127103100 +0800" stop="20261127115500 +0800">
+		<title lang="zh">欧篮联第13轮:拜仁-巴斯克尼亚</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127115500 +0800" stop="20261127120000 +0800">
+		<title lang="zh">健身动起来</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127120000 +0800" stop="20261127123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127123500 +0800" stop="20261127125800 +0800">
+		<title lang="zh">艺术里的奥林匹克</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127125800 +0800" stop="20261127133000 +0800">
+		<title lang="zh">2026国际篮联三人篮球世界巡回赛</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127133000 +0800" stop="20261127144800 +0800">
+		<title lang="zh">花样滑冰大奖赛日本站双人短节目</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127144800 +0800" stop="20261127151500 +0800">
+		<title lang="zh">2026/2027速度滑冰世界杯带广站</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127151500 +0800" stop="20261127164500 +0800">
+		<title lang="zh">花样滑冰大奖赛日本站女单短节目</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127164500 +0800" stop="20261127165500 +0800">
+		<title lang="zh">斯诺克国际锦标赛:塔猜亚的147</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127165500 +0800" stop="20261127170000 +0800">
+		<title lang="zh">健身动起来</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127170000 +0800" stop="20261127180000 +0800">
+		<title lang="zh">运动一起赢</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127180000 +0800" stop="20261127183500 +0800">
+		<title lang="zh">体育新闻</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127183500 +0800" stop="20261127193000 +0800">
+		<title lang="zh">篮球公园</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127193000 +0800" stop="20261127210000 +0800">
+		<title lang="zh">2027年男篮世界杯亚洲区预选赛</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127210000 +0800" stop="20261127213000 +0800">
+		<title lang="zh">2026/2027英超联赛第11轮集锦</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127213000 +0800" stop="20261127220000 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127220000 +0800" stop="20261127230000 +0800">
+		<title lang="zh">2026国际足联U17世界杯小组赛I组</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261127230000 +0800" stop="20261128000500 +0800">
+		<title lang="zh">2026国际足联U17世界杯小组赛I组</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261128000500 +0800" stop="20261128010600 +0800">
+		<title lang="zh">2026年世界摔跤锦标赛</title>
+	</programme>
+	<programme channel="CCTV-5" start="20261128010600 +0800" stop="20261128023600 +0800">
+		<title lang="zh">英超联赛第11轮:切尔西-利兹联</title>
 	</programme>
 	<channel id="CCTV-5+">
 		<display-name lang="zh">CCTV-5+</display-name>
@@ -1884,11 +2034,17 @@
 	<programme channel="CCTV-5+" start="20261125220700 +0800" stop="20261125233800 +0800">
 		<title lang="zh">2026年世界体操锦标赛单项决赛</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20261125233800 +0800" stop="20261126000800 +0800">
+	<programme channel="CCTV-5+" start="20261125233800 +0800" stop="20261126000000 +0800">
 		<title lang="zh">2026世界田联钻石联赛布鲁塞尔站</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20261126000000 +0800" stop="20261126000800 +0800">
+		<title lang="zh">开始</title>
 	</programme>
 	<programme channel="CCTV-5+" start="20261126000800 +0800" stop="20261126010800 +0800">
 		<title lang="zh">2026年国际自盟场地自行车世锦赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20261126010800 +0800" stop="20261126023700 +0800">
+		<title lang="zh">CBA第7轮:北京首钢-浙江浙商证券</title>
 	</programme>
 	<programme channel="CCTV-5+" start="20261126010800 +0800" stop="20261126023700 +0800">
 		<title lang="zh">CBA第7轮:北京首钢-浙江浙商证券</title>
@@ -1913,9 +2069,6 @@
 	</programme>
 	<programme channel="CCTV-5+" start="20261126103200 +0800" stop="20261126120200 +0800">
 		<title lang="zh">意甲联赛第12轮:拉齐奥-莱切</title>
-	</programme>
-	<programme channel="CCTV-5+" start="20261126120200 +0800" stop="20261126133200 +0800">
-		<title lang="zh">CBA:广东东阳光-青岛崂山啤酒</title>
 	</programme>
 	<programme channel="CCTV-5+" start="20261126120200 +0800" stop="20261126133200 +0800">
 		<title lang="zh">CBA:广东东阳光-青岛崂山啤酒</title>
@@ -1946,5 +2099,74 @@
 	</programme>
 	<programme channel="CCTV-5+" start="20261126233800 +0800" stop="20261127000900 +0800">
 		<title lang="zh">2026年世界田联钻石联赛厦门站</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20261127000900 +0800" stop="20261127010700 +0800">
+		<title lang="zh">2026年蹦床世界杯意大利里乔内站</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20261127010700 +0800" stop="20261127023600 +0800">
+		<title lang="zh">CBA第8轮:山西汾酒-新疆广汇能源</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20261127010700 +0800" stop="20261127023600 +0800">
+		<title lang="zh">CBA第8轮:山西汾酒-新疆广汇能源</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20261127023600 +0800" stop="20261127040000 +0800">
+		<title lang="zh">德甲第8轮:拜仁慕尼黑-多特蒙德</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20261127040000 +0800" stop="20261127060000 +0800">
+		<title lang="zh">2026年法国网球公开赛男单决赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20261127060000 +0800" stop="20261127073000 +0800">
+		<title lang="zh">2026年世界田联钻石联赛洛桑站</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20261127073000 +0800" stop="20261127083000 +0800">
+		<title lang="zh">2026年世界摔跤锦标赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20261127083000 +0800" stop="20261127093100 +0800">
+		<title lang="zh">国际马联场地障碍世界杯维罗纳站</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20261127093100 +0800" stop="20261127103200 +0800">
+		<title lang="zh">WTT蒙彼利埃冠军赛2026比赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20261127103200 +0800" stop="20261127113500 +0800">
+		<title lang="zh">速度滑冰世界杯日本带广站</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20261127113500 +0800" stop="20261127130000 +0800">
+		<title lang="zh">花样滑冰大奖赛日本站冰舞韵律舞</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20261127130000 +0800" stop="20261127133000 +0800">
+		<title lang="zh">2026年世界体操锦标赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20261127133000 +0800" stop="20261127150000 +0800">
+		<title lang="zh">意甲第12轮:亚特兰大-国际米兰</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20261127150000 +0800" stop="20261127163000 +0800">
+		<title lang="zh">2026年ATP年终总决赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20261127163000 +0800" stop="20261127180000 +0800">
+		<title lang="zh">欧篮联第14轮:巴塞罗那-费内巴切</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20261127180000 +0800" stop="20261127193500 +0800">
+		<title lang="zh">花样滑冰大奖赛日本站男单短节目</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20261127193500 +0800" stop="20261127200500 +0800">
+		<title lang="zh">国际篮联三人篮球世巡赛巴林站</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20261127200500 +0800" stop="20261127210600 +0800">
+		<title lang="zh">短道速滑世界巡回赛韩国首尔站</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20261127210600 +0800" stop="20261127213600 +0800">
+		<title lang="zh">法国足球甲级联赛第11轮集锦</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20261127213600 +0800" stop="20261127230700 +0800">
+		<title lang="zh">2026/2027斯诺克国际锦标赛决赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20261127230700 +0800" stop="20261128003700 +0800">
+		<title lang="zh">世界体操锦标赛男子个人全能决赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20261128003700 +0800" stop="20261128010700 +0800">
+		<title lang="zh">英格兰足球超级联赛第8轮集锦</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20261128010700 +0800" stop="20261128023600 +0800">
+		<title lang="zh">CBA:广东东阳光-青岛崂山啤酒</title>
 	</programme>
 </tv>
